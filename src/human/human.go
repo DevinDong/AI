@@ -1,8 +1,4 @@
-package main
-
-import (
-	"fmt"
-)
+package human
 
 type Head struct {
 	Eyes  string
